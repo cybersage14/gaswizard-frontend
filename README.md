@@ -4,13 +4,6 @@
 
 [![Live site](readme_images/guide-site.png)](https://beta.gaswizard.finance)
 
-## Contact info
-
-- **Email:** mr.new0509@gmail.com
-- **Telegram:** [@mrnew0509](https://t.me/mrnew0509)
-- **Skype:** [@sin085](https://join.skype.com/invite/xat3AgpiRVOI)
-- **Discord** [OpenThink#5316](https://discord.gg/TtS7mtuD)
-
 ## Release date
 
 Mar 9, 2023
